@@ -1,3 +1,3 @@
 # React + Vite
 
-Projeto desenvolvido durante o intensião de JavaScript da Hashtag 
+Projeto desenvolvido durante o intensivão de JavaScript da Hashtag 
